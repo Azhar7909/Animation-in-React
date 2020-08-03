@@ -1,0 +1,6 @@
+Animation API Links
+
+1) https://animate.style/
+2) https://hackernoon.com/search?query=getAnimation
+3) http://wellpaidgeek.com/2020/02/11/reacts-useref-hook-explained/
+4) https://css-tricks.com/everything-you-need-to-know-about-flip-animations-in-react/
